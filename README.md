@@ -28,5 +28,6 @@ The probability density function graph obtained using the estimated parameters i
 ## Conclusion
 The Gaussian model was successfully fitted to the given dataset by estimating the required parameters. The resulting probability density function provides a smooth approximation of the data distribution.
 
-## Graph ![Graph](graph_ass1.png)
+## Graph 
+![Graph](graph_ass1.png)
 
